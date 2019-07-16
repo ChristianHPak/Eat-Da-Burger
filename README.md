@@ -15,7 +15,7 @@ The demo of the burger eating application can be found [here](https://classique-
 
 To run the application locally, first clone this repository with the following command.
 
-	git clone 
+	git clone git@github.com:ChristianHPak/Eat-Da-Burger.git
 	
 Next, install the application dependencies.
 
